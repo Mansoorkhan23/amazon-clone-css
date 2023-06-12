@@ -13,5 +13,10 @@ The Amazon Clone project is a visual representation of the Amazon website using 
 Please note that this project is focused on replicating the UI of Amazon and does not include any functional features, such as navigation or interaction with different pages or product categories, in its current state. However, future commits are planned to add these functionalities.
 
 # Features:
-UI Clone: The project accurately reproduces the look and feel of the Amazon website, providing users with a similar visual experience.
+UI Clone: The project accurately reproduces the look and feel of the Amazon website, providing users with a similar visual experience. 
+
 Hover Effects: The navbar includes CSS hover effects that enhance the user experience when interacting with the links.
+
+# Outlook of the page:
+![image](https://github.com/Mansoorkhan23/amazon-clone-css/assets/130406848/9409dc7d-a5bc-4184-a7f4-4882e9189e3b)
+
